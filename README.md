@@ -1,3 +1,7 @@
+# Warning
+
+Fork maintained only for internal versioning purposes. Delete it after migration to 0.12.0.
+
 # purescript-aff-coroutines
 
 [![Latest release](http://img.shields.io/bower/v/purescript-aff-coroutines.svg)](https://github.com/purescript-contrib/purescript-aff-coroutines/releases)
